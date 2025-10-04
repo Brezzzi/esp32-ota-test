@@ -1,7 +1,7 @@
 {
   "version": "1.0.1",
   "min_version": "1.0.0",
-  "url": "https://<dein-user>.github.io/esp32-ota-test/firmware/rdra-esp32s3-1.0.1.bin",
+  "url": "https://brezzzi.github.io/esp32-ota-test/firmware/rdra-esp32s3-1.0.1.bin",
   "description": "Erster OTA-Test via GitHub Pages",
   "sha256": ""
 }
