@@ -1,7 +1,7 @@
 {
   "version": "1.0.4",
   "min_version": "1.0.0",
-  "url": "https://brezzzi.github.io/esp32-ota-test/firmware/lvgl_pressure_display_fixed_fertig_kurz.ino.waveshare_esp32_s3_touch_lcd_28.bin",
+  "url": "https://brezzzi.github.io/esp32-ota-test/firmware/lvgl_pressure_display_fixed_fertig_kurz_repeater.ino.waveshare_esp32_s3_touch_lcd_43b.bin",
   "description": "Erster OTA-Test via GitHub Pages",
   "sha256": ""
 }
